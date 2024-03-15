@@ -1,0 +1,51 @@
+body{
+    background-color: #5dca2b;
+}
+.bg-container{
+    /* background:url('https://img.freepik.com/free-photo/extreme-closeup-beautiful-blown-dandelion_181624-3397.jpg?t=st=1710412923~exp=1710416523~hmac=0d2a3ed4ef3182dbc38a2d13ef1a53fc093a4e709bfa815dad6ce4bdffcf7dfd&w=826'); */
+    
+    height: 100vh;
+    padding: 20px;
+}
+.class1{
+    
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+    color: #3125da;
+}
+.class2{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+
+.background-para{
+    margin-left: 280px;
+    box-shadow: 5px 10px 10px rgb(183, 201, 20) ;
+    background: linear-gradient(#22e643,#13be2f);
+    padding: 20px;
+    border-radius: 20px;
+    width: 50%;
+}
+.paras{
+    text-align: center;
+    padding: 10px;
+}
+.video{
+    margin: 30px;
+}
+.head{
+    padding-left: 20px;
+    font-weight: bold;
+}
+.element{
+    padding: 5px;
+}
+span{
+    font-weight: bold;
+    font-style: italic;
+}
